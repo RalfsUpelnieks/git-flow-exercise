@@ -21,10 +21,7 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 [Homemade Sausages](recipe/jan/homemade-sausages.md)
 [Candied Carrots](recipe/feb/candied-carrots.md)
 
-### [Madame Croque](writer/madame-croque.md) |
+### [Madame Croque](writer/madame-croque.md)
 
 [Chocolate Soup](recipe/jan/chocolate-soup.md)
-
-### [Madame Croque](writer/madame-croque.md) | mmecroque@flavor.magazine
-
 [Roast Pork and Pickled Cucumber Sandwich](recipe/feb/Roast-Pork-and-Pickled-Cucumber-Sandwich.md)
